@@ -1,0 +1,32 @@
+<header style="font-weight: bold; font-size: large">
+Rapport du run automatique de GRP
+</header>
+
+<dl>
+    <dt>Heure de lancement : $t_lancement
+    <dt>Date pivot : $t_prev        
+    <dt>Profondeur des données observées : $profondeur h    
+    <dt>Stations en lacune de débit sur cette période : $nb_lacunesQ
+        <dl ${achtung}> $lacunesQ </dl>
+    <dt>GRP lancé sur $nb_stationsGRP stations.
+</dl>
+
+<h3>Dernière donnée de débit</h3>
+$tabQlast
+
+<h3>Dernière donnée de pluie</h3>
+<p ${formatPlast}> $datePlast </p>
+
+<h3>Pluie prévue</h3>
+<dl>
+<dt>Scénarios de pluie :
+    <dd> $scenarios
+<dt> $bilanBP
+<dt> $bilanRR3
+</dl>
+
+<h3>Vigilance</h3>
+<p>Niveau de vigilance maximal prévu avec le scénario $scenar :</p>
+$tabVigilance
+
+<p>Run sauvegardé dans le dossier : $dossierSave </p>

@@ -1,0 +1,4 @@
+station,nom,troncon,affluent,BNBV,suffixe_st,GRP_horizon,nom_ascii,affluent_ascii
+<code site hydro3>,<nom station>,<nom tronçon de vigilance>,"<si la station est sur un affluent du cours d’eau principal, nom de l’affluent>",<code BNBV du bassin versant de la station>,<2 derniers chiffres du code station hydro3>,<horizon de calage de GRP (h) si GRP à la station>,<nom station en ascii>,<nom affluent en ascii>
+<code site hydro3>,<nom station>,<nom tronçon de vigilance>,"<si la station est sur un affluent du cours d’eau principal, nom de l’affluent>",<code BNBV du bassin versant de la station>,<2 derniers chiffres du code station hydro3>,<horizon de calage de GRP (h) si GRP à la station>,<nom station en ascii>,<nom affluent en ascii>
+<code site hydro3>,<nom station>,<nom tronçon de vigilance>,,<code BNBV du bassin versant de la station>,<2 derniers chiffres du code station hydro3>,,<nom station en ascii>,

@@ -1,0 +1,29 @@
+### Rapport du run automatique de GRP ###
+
+
+Heure de lancement : $t_lancement
+Date pivot : $t_prev        
+Profondeur des données observées : $profondeur h    
+Stations en lacune de débit sur cette période : $nb_lacunesQ
+$lacunesQ
+GRP lancé sur $nb_stationsGRP stations.
+
+# Dernière donnée de débit #
+$tabQlast
+
+# Dernière donnée de pluie #
+$datePlast
+
+# Pluie prévue #
+
+
+Scénarios de pluie :
+$scenarios
+$bilanBP
+$bilanRR3
+
+# Vigilance #
+Niveau de vigilance maximal prévu avec le scénario $scenar :
+$tabVigilance
+
+Run sauvegardé dans le dossier : $dossierSave
