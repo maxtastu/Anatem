@@ -1,4 +1,4 @@
 @echo off
-call activate env_PGRP
+call activate env_Anatem
 chdir Python
 python GRP_auto.py
