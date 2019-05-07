@@ -14,7 +14,6 @@ Les outils suportés sont :
 - modèle hydrologique GRP (IRSTEA),
 - modèle hydrologique Phoeniks,
 - Analog : sélection et affichage d'événements analogues en base.
-<Insérer capture d'écran>
 
 Anatem est construit pour répondre aux besoins du service de prévision des crues SACN en particulier, 
 mais peut être adapté à des pratiques et outils différents.
@@ -103,5 +102,7 @@ En cas d'échec de l'acquisition des RR3 symposium et des BP, les modèles tourn
 
 ## Crédits
 Réalisé par M. Tastu
+
 Icône : réalisé par mavadee sur flaticon.com
+
 Merci aux collègues qui m'ont aidé à démarrer et aux consœurs et confrères pour leur réponses à mes questions et toutes les discussions passionnantes.
