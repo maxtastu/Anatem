@@ -2,6 +2,8 @@
 # ANATEM
 Anatem est la Nouvelle Plateforme pour faire Tourner et Expertiser les Modèles
 
+![alt text](Anatem_screenshot.PNG "Vue principale d'Anatem")
+
 ## Note on langage
 The langage used for this project and the following of this Readme is French.
 It's because Anatem is for a specific use by french flood forecasting services.
