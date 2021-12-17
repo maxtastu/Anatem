@@ -31,7 +31,7 @@ Version 1.0 du 6/05/2019
 
 ## Technologies
 
-Outil créé avec avec et pour Windows, Python v2.7 - Miniconda
+Outil créé avec et pour Windows, Python v2.7 - Miniconda
 
 - Bibliothèques publiques :
 	- lxml            		v4.2.5
