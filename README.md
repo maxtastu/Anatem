@@ -103,7 +103,7 @@ En cas d'échec de l'acquisition des RR3 symposium et des BP, les modèles tourn
 - lancement avec ANATEM.bat
 
 ## Crédits
-Réalisé par M. Tastu
+Réalisé par Maxime Tastu
 
 Icône : réalisé par mavadee sur flaticon.com
 
